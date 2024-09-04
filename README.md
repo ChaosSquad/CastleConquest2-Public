@@ -17,3 +17,6 @@ If you don't have a GitHub account, you can also report bugs and suggest feature
 You can visit our discord server here. The language is mostly german.
   
 [![Go to the issue page](https://raw.githubusercontent.com/ChaosSquad/CastleConquest2-Public/main/icons/discord-button.svg)](https://discord.gg/6Vug8J6XET)
+
+### API
+The CastleConquest 2 API is planned, but the development has not been started and it can take a long time until it will be started.
