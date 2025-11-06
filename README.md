@@ -5,7 +5,7 @@ In this repository, you will find important information of CastleConquest2.
 In the CastleConquest 2 Wiki you will find information about the game modes, maps and game mechanics.  
 Click on the button below to open it.
   
-[![Go to the wiki](https://raw.githubusercontent.com/ChaosSquad/CastleConquest2-Public/main/icons/wiki-button.svg)](https://github.com/ChaosSquad/CastleConquest2-Public/wiki)
+[![Go to the wiki](https://raw.githubusercontent.com/ChaosSquad/CastleConquest2-Public/main/icons/wiki-button.svg)](https://documentation.chaossquad.net/castleconquest2/)
 
 ### Issues
 If you have any problems playing CastleConquest 2, you can report them here via the GitHub Issues.  
